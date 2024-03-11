@@ -1,0 +1,4 @@
+name: RecordingAssistant for Paper
+version: '${project.version}'
+main: jp.houlab.mochidsuki.recordingassistantforpaper.RecordingAssistantForPaper
+api-version: '1.20'
